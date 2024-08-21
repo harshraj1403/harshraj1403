@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harshportfolio-harsh-rajs-projects-b6ea1943.vercel.app/](https://harshportfolio-harsh-rajs-projects-b6ea1943.vercel.app/)
 
-- 💬 Ask me about **react, node.js, typescript , aws, mysql**
+- 💬 Ask me about **React Js, Node.js, Typescript, AWS, MySql,  Next Js,DSA**
 
 - 📫 How to reach me **rajharsh1703@gmail.com**
 
@@ -20,7 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a href="https://twitter.com/harshra78239699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshra78239699" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh-raj-56942a221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-raj-56942a221" height="30" width="40" /></a>
+<a href="https://instagram.com/rick_grimes_1403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick_grimes_1403" height="30" width="40" /></a>
+<a href="https://medium.com/@teslanikola01943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@teslanikola01943" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/the_dark_night" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="the_dark_night" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/deathbeater" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deathbeater" height="30" width="40" /></a>
 </p>
