@@ -1,3 +1,5 @@
+
+![logo](https://github.com/harshraj1403/harshraj1403/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">An enthusiastic full stack developer based in India.</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXExcjJzNjE2bWo3azM5dHB0ODVvZnBpaXd1dWgwZ3l2amNkYWo1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
